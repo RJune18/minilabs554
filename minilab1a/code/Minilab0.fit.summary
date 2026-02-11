@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Feb  3 16:16:56 2026
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : Minilab0
+Top-level Entity Name : Minilab0
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 93 / 32,070 ( < 1 % )
+Total registers : 121
+Total pins : 70 / 457 ( 15 % )
+Total virtual pins : 0
+Total block memory bits : 128 / 4,065,280 ( < 1 % )
+Total RAM Blocks : 2 / 397 ( < 1 % )
+Total DSP Blocks : 1 / 87 ( 1 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
